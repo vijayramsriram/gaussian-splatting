@@ -4,30 +4,6 @@ This project aims to digitally reconstruct lunar terrain from the Apollo 17 miss
 
 ---
 
-## 📂 Project Layout
-
-```
-.
-├── data/
-│   └── apollo17/
-│       ├── images/                # 15 original Apollo images
-│       ├── sparse/                # COLMAP sparse 3D output
-│       │   ├── cameras.bin
-│       │   ├── images.bin
-│       │   └── points3D.bin
-├── output/
-│   └── 000fab2b-8/
-│       ├── cfg_args
-│       ├── point_cloud/
-│       │   └── ours_30000/
-│       │       └── point_cloud.ply
-│       └── train/
-│           └── ours_30000/
-│               ├── renders/
-│               └── gt/
-```
-
----
 
 ## 🛠️ Workflow
 
