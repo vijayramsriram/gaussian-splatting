@@ -98,7 +98,8 @@ python Assignment4_partA.py
 
 - Measures difference between recovered and ground truth images using `scikit-image`.
 
-<img width="1552" alt="metrics" src="https://github.com/user-attachments/assets/ad263588-dceb-4f55-850e-90993012f359" />
+![v](https://github.com/user-attachments/assets/7260d050-1ad7-45d9-ac55-f429e7b15347)
+
 
 ---
 
