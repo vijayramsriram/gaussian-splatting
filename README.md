@@ -71,10 +71,20 @@ python render.py -m output/000fab2b-8 -s data/apollo17 --skip_train --iteration 
   - `gt/` (Original)
 
 #### Ground Truth  
-![GT](https://github.com/user-attachments/assets/3cafce5b-d5b4-48fa-a3e6-0cedf72f0672)
+
+
+![00009](https://github.com/user-attachments/assets/c30e1640-6f8e-4ef5-968d-ffd02ff66584)
+
+
+
+
 
 #### Reconstructed  
-![Rendered](https://github.com/user-attachments/assets/d3379bdc-178f-4944-8c17-f24e0fa0ffd3)
+
+
+
+![00009(2)](https://github.com/user-attachments/assets/27a581ba-ac1d-46ab-9b67-8c449a569dee)
+
 
 ---
 
